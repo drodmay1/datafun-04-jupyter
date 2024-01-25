@@ -18,6 +18,6 @@ venv/, .gitignore, README.md and requirements.txt
 git add .
 git commit -m "initial commit"
 14. performed gitpush to github: git push origin main
-15. confirmed in github that the 
+15. confirmed in github that the changes are showinf as "commit"
 16.
 17. 
