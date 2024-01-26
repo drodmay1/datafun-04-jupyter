@@ -19,5 +19,17 @@ git add .
 git commit -m "initial commit"
 14. performed gitpush to github: git push origin main
 15. confirmed in github that the changes are showinf as "commit"
-16.
-17. 
+
+## How to Install and Run the Project ##
+
+open native terminal in MacOs
+navigate to project directory
+`use cd command`
+create virtual environment 
+`use venv`
+python3 -m venv venv
+activate virtual environment: source venv/bin/activate
+install packages
+use `pip`
+pip install `package_name`
+freeze dependencies
