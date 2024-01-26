@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 2beae8fd7658de368461b9dc4cf0bbf9c44ce594 David <drodmay@gmail.com> 1706222052 -0500	clone: from https://github.com/drodmay1/datafun-04-jupyter.git
+2beae8fd7658de368461b9dc4cf0bbf9c44ce594 61db0e2f0bbcd8552b73151817b1013e6f01fe8d David <drodmay@gmail.com> 1706222734 -0500	commit: initial commit
+61db0e2f0bbcd8552b73151817b1013e6f01fe8d 806e6d645167bc14234ff88e457440d0c5b30088 David <drodmay@gmail.com> 1706223960 -0500	commit: git ignore added
+806e6d645167bc14234ff88e457440d0c5b30088 a18cc23ff22ffd3ded18e5f39fdefd5132d27a7c David <drodmay@gmail.com> 1706224085 -0500	commit: gitignore added
+a18cc23ff22ffd3ded18e5f39fdefd5132d27a7c e3a5f825b1c1569c32887f1814ac88b153c9c010 David <drodmay@gmail.com> 1706224742 -0500	commit: .gitignore added
+e3a5f825b1c1569c32887f1814ac88b153c9c010 37059230d8381afcdae88f91a0de6e5a27125897 David <drodmay@gmail.com> 1706225298 -0500	commit (merge): initial commit
+37059230d8381afcdae88f91a0de6e5a27125897 307fc01b1435e3a0221af30df8a55af20b642f33 David <drodmay@gmail.com> 1706227256 -0500	commit: jupyter installed
+307fc01b1435e3a0221af30df8a55af20b642f33 bbfa5734499ee2fad5791d9afcec15e40ce31ff0 David <drodmay@gmail.com> 1706227453 -0500	commit: Changes 1
+bbfa5734499ee2fad5791d9afcec15e40ce31ff0 cbca0824d9ae991ebc12afb6d4bd3cc440f1217b David <drodmay@gmail.com> 1706278030 -0500	commit: changes 1_26
+cbca0824d9ae991ebc12afb6d4bd3cc440f1217b 4590ce56c65a8979a900029d26dd9c66bfab817f David <drodmay@gmail.com> 1706279106 -0500	commit: updated 1_26
+4590ce56c65a8979a900029d26dd9c66bfab817f 6ef0ddb911ef70bd8e0b633e53cfe5b731a46ea4 David <drodmay@gmail.com> 1706280065 -0500	commit: updated
+6ef0ddb911ef70bd8e0b633e53cfe5b731a46ea4 d5b80e1b94a33fb9458330345dcb0af3cc449baf David <drodmay@gmail.com> 1706294010 -0500	commit: new updates
+d5b80e1b94a33fb9458330345dcb0af3cc449baf b8516dff0e77b67c75540c59418200ef2231256c David <drodmay@gmail.com> 1706301791 -0500	commit: notebook with histograms
