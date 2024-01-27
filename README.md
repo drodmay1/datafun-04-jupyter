@@ -1,5 +1,13 @@
-# datafun-04-jupyter
-Module 4 of 44608
+# Project tile
+Presenting Data Stories with Jupyter
+
+Brief description:
+Exploring the famous Iris dataset. Our goal is to uncover patterns, relationships, and insights within the data and present them in an engaging manner.
+
+Dataset Overview
+The Iris dataset contains information about three species of iris flowers: setosa, versicolor, and virginica. It includes measurements of sepal length, sepal width, petal length, and petal width. Let's start by taking a quick look at the structure of the data.
+
+# Steps Performed
 
 1. I created the github with the name datafun-04-jupyter and added the file READ.ME
 2. Created the folder in finder (datafun-04-jupyter) in the parent folder documents>NWMO
@@ -21,7 +29,6 @@ git commit -m "initial commit"
 15. confirmed in github that the changes are showinf as "commit"
 
 ## How to Install and Run the Project ##
-
 open native terminal in MacOs
 navigate to project directory
 `use cd command`
@@ -33,3 +40,7 @@ install packages
 use `pip`
 pip install `package_name`
 freeze dependencies
+
+
+
+#
